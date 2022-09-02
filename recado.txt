@@ -1,1 +1,1 @@
-Não tinha noção se era para manter as duas branches ou deletar a master
+Não tinha noção se era para manter as duas branches ou deletar a master, fiz esse txt só para provar o domínio das branches
